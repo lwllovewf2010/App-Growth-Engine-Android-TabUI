@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/rounded_corners"
+        android:drawable="@drawable/tabui_enternameback"/>
+    <item
+        android:id="@+id/additional_image"
+        android:drawable="@drawable/tabui_menu_back_l"/>
+
+</layer-list>

@@ -1,0 +1,6 @@
+1.0.0
+ * TabUI created. Features include:
+   - Slide-out user interface.
+   - Supports both portrait and landscape view.
+   - Smart invitation.
+   - Show friends with app.
