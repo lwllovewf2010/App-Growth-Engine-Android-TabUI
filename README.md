@@ -6,7 +6,7 @@ This open source Java plug-in combines the AGE SDK with a ready-to-use user inte
 
 # Getting Started
 
-See our <a href="http://hookmobile.com/android-tutorial.html" target="_blank">Android Plug-in Getting Started Guide</a>
+See our <a href="http://hookmobile.com/docs.html" target="_blank">Android Plug-in Getting Started Guide</a>
 
 
 # Sample Application
